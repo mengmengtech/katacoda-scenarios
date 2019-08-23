@@ -1,11 +1,11 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "梦盟学院 - 入门",
+  "description": "你的第一个命令",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "2 分钟",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Step 1 - 运行命令",
       "text": "step1.md"
     }],
     "intro": {
@@ -18,7 +18,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uimessage1": "\u001b[32m交互系统.\r\n"
   },
   "backend": {
     "imageid": "bash"
