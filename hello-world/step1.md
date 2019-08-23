@@ -1,7 +1,8 @@
-This is your first step.
+大连智领学院
 
-## Task
+## 任务
 
-This is an _example_ of creating a scenario and running a **command**
+第一个任务，执行程序显示信息。
+ **command**
 
-`echo 'Hello World'`{{execute}}
+`echo '你好，世界！'`{{execute}}
