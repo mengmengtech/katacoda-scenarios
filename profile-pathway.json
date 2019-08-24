@@ -1,0 +1,73 @@
+{
+    "courses": [
+      {
+        "title": "1.K近邻",
+        "description": "K近邻",
+        "id": "ai-ml1"
+      },
+      {
+        "title": "2.贝叶斯",
+        "description": "贝叶斯",
+        "id": "ai-ml2"
+      },
+      {
+        "title": "3.聚类算法",
+        "description": "聚类算法",
+        "id": "ai-ml3"
+      },
+      {
+        "title": "4.决策树",
+        "description": "决策树",
+        "id": "ai-ml4"
+      },
+      {
+        "title": "5.线性与梯度",
+        "description": "线性与梯度",
+        "id": "ai-ml5"
+      },
+      {
+        "title": "6.逻辑回归",
+        "description": "逻辑回归",
+        "id": "ai-ml6"
+      },
+      {
+        "title": "7.支持向量机",
+        "description": "支持向量机",
+        "id": "ai-ml7"
+      },
+      {
+        "title": "8.EM算法",
+        "description": "EM算法",
+        "id": "ai-ml8"
+      },
+      {
+        "title": "9.随机森林",
+        "description": "随机森林",
+        "id": "ai-ml8"
+      },
+      {
+        "title": "10.自适应学习",
+        "description": "自适应学习",
+        "id": "ai-ml10"
+      }
+    ],
+    "scenarios": [
+      {
+        "title": "使用说明",
+        "description": "系统使用教程",
+        "id": "sys-guide"
+      },
+      {
+        "title": "成果测试",
+        "description": "教程配套的测试题",
+        "id": "ai-test"
+      },
+      {
+        "title": "排行榜",
+        "description": "排行榜",
+        "id": "sys-rank"
+      }
+      
+    ]
+  }
+  

@@ -1,0 +1,33 @@
+{
+    "title": "Katacoda UI Layouts Example",
+    "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
+    "icon": "fa-katacoda",
+    "courses": [
+      {
+        "course_id": "ml5-1",
+        "title": "线性相关的概念",
+        "description": "线性相关的概念"
+      },
+      {
+        "course_id": "ml5-2",
+        "title": "线性回归和最小二乘法",
+        "description": "线性回归和最小二乘法"
+      },
+      {
+        "course_id": "ml5-3",
+        "title": "梯度和梯度下降",
+        "description": "梯度和梯度下降"
+      },
+      {
+        "course_id": "ml5-4",
+        "title": "梯度推导.伪代码.决定系数",
+        "description": "梯度推导.伪代码.决定系数"
+      },
+      {
+        "course_id": "ml5-5",
+        "title": "岭回归.lasso.弹性网",
+        "description": "岭回归.lasso.弹性网"
+      }
+    ]
+  }
+  

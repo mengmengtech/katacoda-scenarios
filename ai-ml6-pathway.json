@@ -1,0 +1,28 @@
+{
+    "title": "Katacoda UI Layouts Example",
+    "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
+    "icon": "fa-katacoda",
+    "courses": [
+      {
+        "course_id": "ml6-1",
+        "title": "逻辑回归",
+        "description": "逻辑回归"
+      },
+      {
+        "course_id": "ml6-2",
+        "title": "最大似然估计",
+        "description": "最大似然估计"
+      },
+      {
+        "course_id": "ml6-3",
+        "title": "逻辑回归的梯度推导",
+        "description": "逻辑回归的梯度推导"
+      },
+      {
+        "course_id": "ml6-4",
+        "title": "实战",
+        "description": "实战"
+      }
+    ]
+  }
+  

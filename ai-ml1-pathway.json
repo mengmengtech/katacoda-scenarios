@@ -1,0 +1,33 @@
+{
+    "title": "Katacoda UI Layouts Example",
+    "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
+    "icon": "fa-katacoda",
+    "courses": [
+      {
+        "course_id": "ml1-1",
+        "title": "什么是机器学习",
+        "description": "什么是机器学习"
+      },
+      {
+        "course_id": "ml1-2",
+        "title": "课程内容介绍",
+        "description": "课程内容介绍"
+      },
+      {
+        "course_id": "ml1-3",
+        "title": "k最近邻算法的思想",
+        "description": "k最近邻算法的思想"
+      },
+      {
+        "course_id": "ml1-4",
+        "title": "机器学习中常用的距离解析",
+        "description": "机器学习中常用的距离解析"
+      },
+      {
+        "course_id": "ml1-5",
+        "title": "实战knn算法.鸢尾花分类",
+        "description": "实战knn算法.鸢尾花分类"
+      }
+    ]
+  }
+  

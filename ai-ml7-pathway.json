@@ -1,0 +1,28 @@
+{
+    "title": "Katacoda UI Layouts Example",
+    "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
+    "icon": "fa-katacoda",
+    "courses": [
+      {
+        "course_id": "ml7-1",
+        "title": "原理介绍",
+        "description": "原理介绍"
+      },
+      {
+        "course_id": "ml7-2",
+        "title": "线性可分",
+        "description": "线性可分"
+      },
+      {
+        "course_id": "ml7-3",
+        "title": "SVM.坐标上升法.SMO算法",
+        "description": "SVM.坐标上升法.SMO算法"
+      },
+      {
+        "course_id": "ml7-4",
+        "title": "实战",
+        "description": "实战"
+      }
+    ]
+  }
+  

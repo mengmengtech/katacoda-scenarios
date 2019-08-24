@@ -1,0 +1,13 @@
+# Override the strings in the UI
+continue: "继续"
+start_scenario: "开始学习"
+welcome: "智领学院"
+difficulty: "人工智能"
+time: "时间"
+steps: "步骤"
+step: "步骤"
+of: "之"
+answer: "答案"
+solution: "解题"
+show: "显示"
+terminal: "终端"

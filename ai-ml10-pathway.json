@@ -1,0 +1,38 @@
+{
+    "title": "Katacoda UI Layouts Example",
+    "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
+    "icon": "fa-katacoda",
+    "courses": [
+      {
+        "course_id": "ml10-1",
+        "title": "机器学习的思想.生成模型和判别模型",
+        "description": "机器学习的思想.生成模型和判别模型"
+      },
+      {
+        "course_id": "ml10-2",
+        "title": "理解方差和偏差.损失函数和过拟合的关系",
+        "description": "理解方差和偏差.损失函数和过拟合的关系"
+      },
+      {
+        "course_id": "ml10-3",
+        "title": "L1.L2正则化和常见损失函数",
+        "description": "L1.L2正则化和常见损失函数"
+      },
+      {
+        "course_id": "ml10-4",
+        "title": "模型选择和参数选择.交叉验证.ROC曲线",
+        "description": "模型选择和参数选择.交叉验证.ROC曲线"
+      },
+      {
+        "course_id": "ml10-5",
+        "title": "自适应学习率算法.二分法精确搜索",
+        "description": "自适应学习率算法.二分法精确搜索"
+      },
+      {
+        "course_id": "ml10-6",
+        "title": "自适应学习率算法.基于阿米霍步长准则的线性回溯搜索算法",
+        "description": "自适应学习率算法.基于阿米霍步长准则的线性回溯搜索算法"
+      }
+    ]
+  }
+  
