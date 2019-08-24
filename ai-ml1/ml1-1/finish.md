@@ -1,1 +1,1 @@
-Congratulations, you have learned how to make a course based on a collection of Katacoda scenarios.
+Congratulations！您已经完成了本部分全部内容！

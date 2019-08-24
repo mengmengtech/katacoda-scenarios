@@ -1,28 +1,22 @@
-The CLI can be used to add existing scenarios to a course.
+#### 实战背景
+    海伦女士一直使用在线约会网站寻找适合自己的约会对象。尽管约会网站会推荐不同的任选，但她并不是喜欢每一个人。经过一番总结，她发现自己交往过的人可以进行如下分类：
 
-You can list your available scenarios, using this command:
-`find ./ -type f | grep index.json`{{execute}}
+- 不喜欢的人
+- 魅力一般的人
+- 极具魅力的人
+    海伦收集约会数据已经有了一段时间，她把这些数据存放在文本文件datingTestSet.txt中，每个样本数据占据一行，总共有1000行。
 
-For example, can add the existing scenario, called *quiz* to the previous created course *test-course* running the following command and follow the steps:
-`katacoda courses:add:scenarios`{{execute}}
+    datingTestSet.txt数据下载
 
-The CLI will prompt you a few questions about:
-- Scenario path: type `./quiz`
-- Course path: type `./test-course`
+    海伦收集的样本数据主要包含以下3种特征：
 
-And then select if you want to copy or move the scenario to the course folder.
+每年获得的飞行常客里程数
+玩视频游戏所消耗时间百分比
+每周消费的冰淇淋公升数
+    这里不得不吐槽一句，海伦是个小吃货啊，冰淇淋公斤数都影响自己择偶标准。打开txt文本文件，数据格式如图2.1所示。
 
-After that, you can see the scenario was added in your `test-course` opening `katacoda-scenario-examples/test-course-pathway.json`{{open}}
+ 
 
-<pre class="file">
-{
-  "title": "test-course",
-  "description": "Example course",
-  "courses": [
-    {
-      "course_id": "quiz",
-      "title": "Interactive Quiz",
-      "description": "Verify understand and key points by using an interactive quiz"
-    }
-  ]
-</pre>
+ 
+ #### 准备数据：数据解析
+    在将上述特征数据输入到分类器前，必须将待处理的数据的格式改变为分类器可以接收的格式。分类器接收的数据是什么格式的？从上小结已经知道，要将数据分类两部分，即特征矩阵和对应的分类标签向量。在kNN_test02.py文件中创建名为file2matrix的函数，以此来处理输入格式问题。 将datingTestSet.txt放到与kNN_test02.py相同目录下，编写代码如下：

@@ -1,14 +1,26 @@
-A course can include scenarios in different directories. This allows scenarios to be re-used and re-purposed in different situations.
+### 距离度量
+    我们已经知道k-近邻算法根据特征比较，然后提取样本集中特征最相似数据(最邻近)的分类标签。那么，如何进行比较呢？比如，我们还是以表1.1为例，怎么判断红色圆点标记的电影所属的类别呢？如图1.1所示。
 
-An example of this would be including the following:
+![图1.2 两点距离公式](https://img-blog.csdn.net/20170715151027554?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYzQwNjQ5NTc2Mg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+ 
+  - 我们可以从散点图大致推断，这个红色圆点标记的电影可能属于动作片，因为距离已知的那两个动作片的圆点更近。
+  - k-近邻算法用什么方法进行判断呢？没错，就是距离度量。这个电影分类的例子有2个特征，也就是在2维实数向量空间，可以使用我们高中学过的两点距离公式计算距离，如图1.2所示。
 
-<pre class="file">
-{
-    "pathway_id" "environment-usages",
-    "course_id": "ubuntu",
-    "title": "Ubuntu 16.04 Instance",
-    "description": "General purpose environment"
-},
-</pre>
+ 
 
-This would reference the scenario Ubuntu from the environment-usages course.
+    通过计算，我们可以得到如下结果：
+
+- (101,20)->动作片(108,5)的距离约为16.55
+- (101,20)->动作片(115,8)的距离约为18.44
+- (101,20)->爱情片(5,89)的距离约为118.22
+- (101,20)->爱情片(1,101)的距离约为128.69
+    
+通过计算可知，红色圆点标记的电影到动作片 (108,5)的距离最近，为16.55。如果算法直接根据这个结果，判断该红色圆点标记的电影为动作片，这个算法就是最近邻算法，而非k-近邻算法。那么k-邻近算法是什么呢？k-近邻算法步骤如下：
+
+- 计算已知类别数据集中的点与当前点之间的距离；
+- 按照距离递增次序排序；
+- 选取与当前点距离最小的k个点；
+- 确定前k个点所在类别的出现频率；
+- 返回前k个点所出现频率最高的类别作为当前点的预测分类。
+    
+比如，现在我这个k值取3，那么在电影例子中，按距离依次排序的三个点分别是动作片(108,5)、动作片(115,8)、爱情片(5,89)。在这三个点中，动作片出现的频率为三分之二，爱情片出现的频率为三分之一，所以该红色圆点标记的电影为动作片。这个判别过程就是k-近邻算法。
