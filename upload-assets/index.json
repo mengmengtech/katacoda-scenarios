@@ -16,11 +16,14 @@
                 {"file": "wait.sh", "target": "/usr/local/bin/", "chmod": "+x"},
                 {"file": "deploy.sh", "target": "/usr/local/bin/", "chmod": "+x"},
                 
-                {"file": "kNN/c1", "target": "/root/", "chmod": "+x"},
+                {"file": "kNN/c1/kNN_test01.py", "target": "/root/", "chmod": "+x"},
                 
-                {"file": "kNN/c3", "target": "/root/", "chmod": "+x"},
+                {"file": "kNN/c3/kNN_test03.py", "target": "/root/", "chmod": "+x"},
                 {"file": "kNN/c2/datingTestSet.txt", "target": "/root/", "chmod": "+x"},
-                {"file": "kNN/c2/kNN_test02.py", "target": "/root/", "chmod": "+x"}
+                
+                {"file": "kNN/c2/kNN_test02.py", "target": "/root/", "chmod": "+x"},
+                {"file": "kNN/c3/kNN_test04.py", "target": "/root/ai/ml-1-1/c3", "chmod": "+x"}
+                
                 
             ]
         }

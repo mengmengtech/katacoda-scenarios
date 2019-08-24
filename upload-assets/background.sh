@@ -1,5 +1,10 @@
 #!/bin/bash
+mkdir /root/ai
+mkdir /root/ai/ml1-1
 
+mkdir /root/ai/ml1-1/c1
+mkdir /root/ai/ml1-1/c2
+mkdir /root/ai/ml1-1/c3
 sudo grep -i "done" /opt/katacoda-background-finished &> /dev/null
 if [[ "$?" -eq 0 ]]; then
 exit
