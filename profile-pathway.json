@@ -66,6 +66,11 @@
         "title": "排行榜",
         "description": "排行榜",
         "id": "sys-rank"
+      },
+      {
+        "title": "课程上传",
+        "description": "课程上传",
+        "id": "upload-assets"
       }
       
     ]
