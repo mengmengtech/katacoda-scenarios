@@ -26,10 +26,11 @@
     },
     "environment": {
         "showdashboard":true,
-        "dashboards": [{"name": "页面", "href": "https://mengmentech.github.io"},
-            {"name": "教学", "href": "https://mengmentech.github.io/video/ml1-1.mp4"},
-            {"name": "结果", "port": 80},
+        "dashboards": [{"name": "首页", "href": "http://mengmengtech.github.io"},
+            {"name": "教学", "href": "http://mengmengtech.github.io/video/ml1-1.mp4"},
             {"name": "交互", "href": "https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com"}],
+            {"name": "结果", "port": 80}
+            
         "uilayout": "terminal-iframe"
     },
     "backend": {
