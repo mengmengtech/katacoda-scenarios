@@ -25,8 +25,12 @@
         }
     },
     "environment": {
-        "hideintro": true, "hidefinish": true,
-        "uilayout": "terminal"
+        "showdashboard":true,
+        "dashboards": [{"name": "页面", "href": "https://mengmentech.github.io"},
+            {"name": "教学", "href": "https://mengmentech.github.io/video/ml1-1.mp4"},
+            {"name": "结果", "port": 80},
+            {"name": "交互", "href": "https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com"}],
+        "uilayout": "terminal-iframe"
     },
     "backend": {
         "imageid": "ubuntu"
