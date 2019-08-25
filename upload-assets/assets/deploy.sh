@@ -10,6 +10,6 @@ pip3 install matplotlib
 pip3 install sklearn
 
 docker pull jupyter/datascience-notebook
-docker run -itd -p 80:8888 -v /home/jovyan/work:/opt/ai --name="mmjupyter" jupyter/datascience-notebook bash
+docker run -itd -p 80:8888 -v /opt/ai:/opt/ai --name="mmjupyter" jupyter/datascience-notebook bash
 docker exec -it mmjupyter bash
 jupyter notebook &
