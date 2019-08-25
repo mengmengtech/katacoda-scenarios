@@ -65,15 +65,15 @@ Not a file
 ###### 拷贝
 <kbd>Ctrl</kbd> + <kbd>C</kbd>
 
-echo "Copy it"  {{copy}}
+`echo "Copy it"`{{copy}}
 
 ###### 运行
 
-`echo "run in terminal" ` {{execute}}
+`echo "run in terminal" `{{execute}}
 
 
 ###### 中断 
-`echo "Send Ctrl+C before run" ` {{execute interrupt}}
+`echo "Send Ctrl+C before run" `{{execute interrupt}}
 
 ``` 
   # -*- coding: UTF-8 -*-
