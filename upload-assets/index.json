@@ -27,9 +27,11 @@
     "environment": {
         "showdashboard":true,
         "dashboards": [{"name": "首页", "href": "http://mengmengtech.github.io"},
-            {"name": "教学", "href": "http://mengmengtech.github.io/video/ml1-1.mp4"},
+            {"name": "教案", "href": "http://mengmengtech.github.io/ppt/ml1-1.ppt"},
+            {"name": "教学", "href": "http://player.bilibili.com/player.html?aid=6117110&cid=9931722&page=1"},
             {"name": "结果", "port": 80},
-            {"name": "交互", "href": "https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com"}],
+            {"name": "Jupyter", "port": 8888},
+            {"name": "交互", "href": "https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com:8888/notebooks/sklearn_tutorial/notebooks/04.2-Clustering-KMeans.ipynb"}],
             
             
         "uilayout": "terminal-iframe"
