@@ -1,2 +1,2 @@
 sleep 2; 
-deploy.sh
+deploy.sh;
