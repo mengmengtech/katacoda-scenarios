@@ -1,6 +1,26 @@
 {
     "courses": [
       {
+        "title": "十分钟学做系列",
+        "description": "学习开始做系列课程",
+        "id": "it"
+      },
+      {
+        "title": "十分钟健康系列",
+        "description": "学习健康生活系列",
+        "id": "heal"
+      },
+      {
+        "title": "十分钟评论",
+        "description": "点评漫画",
+        "id": "pinglun"
+      },
+      {
+        "title": "十分钟中小学提分",
+        "description": "聚类算法",
+        "id": "edu"
+      },
+      {
         "title": "1.K近邻",
         "description": "K近邻",
         "id": "ai-ml1"
