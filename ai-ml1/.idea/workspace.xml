@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa8a7fe2-a54d-4d90-8cb2-ae151f9467d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Achievement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Activity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/avantar/园园.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/avantar/园园全身.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/avantar/明明.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/avantar/明明全身.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/avantar/步步.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/avantar/步步全身.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/avantar/莉莉.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/avantar/莉莉全身.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/avantar/萌萌.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/avantar/萌萌全身.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/avantar/萝萝.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/avantar/萝萝全身.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/teacher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/waiter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/webLC.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ml1-1/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/ml1-1/intro.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,9 +38,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ml1-1/intro.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="299">
-                <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="391">
+                <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               </first_editor>
               <second_editor />
             </state>
@@ -64,12 +81,6 @@
               <item name="ai-ml1" type="b2602c69:ProjectViewProjectNode" />
               <item name="ai-ml1" type="462c0819:PsiDirectoryNode" />
               <item name="book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ai-ml1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ai-ml1" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="avantar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ai-ml1" type="b2602c69:ProjectViewProjectNode" />
@@ -141,9 +152,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ml1-1/intro.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="299">
-            <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="391">
+            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           </first_editor>
           <second_editor />
         </state>
