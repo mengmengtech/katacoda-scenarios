@@ -1,5 +1,10 @@
 {
     "courses": [
+	  {
+        "title": "未来学院课程",
+        "description": "未来学院课程",
+        "id": "book"
+      },
       {
         "title": "十分钟学做系列",
         "description": "学习开始做系列课程",

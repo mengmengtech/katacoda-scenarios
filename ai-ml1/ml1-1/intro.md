@@ -1,5 +1,5 @@
 ![title](../book/intro/fulllogo.png)
-【 梦国度出品 http://mengmeng.github.io 】
+【 梦盟科技出品 http://mengmeng.github.io ，官网http://mengmeng.tech】
 
 
 ### 上课
@@ -22,4 +22,7 @@
 - 文字识别 ![title](../book/intro/OCR.png)
 - 推荐系统 ![title](../book/intro/eva.png)
 
+ 分类问题：知道这个数据集是有多少种类的
+ 聚类来说：在对数据集操作时，我们是不知道该数据集包含多少类，我们要将数据集中相似的数据归纳在一起
+ 回归问题：预测数值
  

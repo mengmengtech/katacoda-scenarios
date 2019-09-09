@@ -2,47 +2,360 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa8a7fe2-a54d-4d90-8cb2-ae151f9467d9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/book/Achievement.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/Activity.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/avantar/园园.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/avantar/园园全身.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/avantar/明明.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/avantar/明明全身.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/avantar/步步.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/avantar/步步全身.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/avantar/莉莉.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/avantar/莉莉全身.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/avantar/萌萌.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/avantar/萌萌全身.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/avantar/萝萝.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/avantar/萝萝全身.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/teacher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/waiter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/webLC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ml1-1/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/ml1-1/intro.md" afterDir="false" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/book/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/book/c12_life/finish.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/book/c12_life/intro.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/book/c1_chinese/finish.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/book/c1_chinese/index.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/book/c1_chinese/intro.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/book/c1_chinese/step1.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/book/c2_math/step1.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/book/intro.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/ai-ml1.iml" afterPath="$PROJECT_DIR$/.idea/ai-ml1.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/book/0.png" afterPath="$PROJECT_DIR$/resources/0.png" />
+      <change beforePath="$PROJECT_DIR$/book/1.png" afterPath="$PROJECT_DIR$/resources/1.png" />
+      <change beforePath="$PROJECT_DIR$/book/2.png" afterPath="$PROJECT_DIR$/resources/2.png" />
+      <change beforePath="$PROJECT_DIR$/book/3.png" afterPath="$PROJECT_DIR$/resources/3.png" />
+      <change beforePath="$PROJECT_DIR$/book/Barracks1.png" afterPath="$PROJECT_DIR$/resources/Barracks1.png" />
+      <change beforePath="$PROJECT_DIR$/book/Barracks2.png" afterPath="$PROJECT_DIR$/resources/Barracks2.png" />
+      <change beforePath="$PROJECT_DIR$/book/Barracks3.png" afterPath="$PROJECT_DIR$/resources/Barracks3.png" />
+      <change beforePath="$PROJECT_DIR$/book/Barracks4.png" afterPath="$PROJECT_DIR$/resources/Barracks4.png" />
+      <change beforePath="$PROJECT_DIR$/book/BigBG.png" afterPath="$PROJECT_DIR$/resources/BigBG.png" />
+      <change beforePath="$PROJECT_DIR$/book/CenterBuilding.png" afterPath="$PROJECT_DIR$/resources/CenterBuilding.png" />
+      <change beforePath="$PROJECT_DIR$/book/Cloud.png" afterPath="$PROJECT_DIR$/resources/Cloud.png" />
+      <change beforePath="$PROJECT_DIR$/book/Constellation.png" afterPath="$PROJECT_DIR$/resources/Constellation.png" />
+      <change beforePath="$PROJECT_DIR$/book/Default.png" afterPath="$PROJECT_DIR$/resources/Default.png" />
+      <change beforePath="$PROJECT_DIR$/book/Dream-Building.png" afterPath="$PROJECT_DIR$/resources/Dream-Building.png" />
+      <change beforePath="$PROJECT_DIR$/book/Flower.png" afterPath="$PROJECT_DIR$/resources/Flower.png" />
+      <change beforePath="$PROJECT_DIR$/book/FlowerDamon.png" afterPath="$PROJECT_DIR$/resources/FlowerDamon.png" />
+      <change beforePath="$PROJECT_DIR$/book/GrowingOrange.png" afterPath="$PROJECT_DIR$/resources/GrowingOrange.png" />
+      <change beforePath="$PROJECT_DIR$/book/GrowingPiyata.png" afterPath="$PROJECT_DIR$/resources/GrowingPiyata.png" />
+      <change beforePath="$PROJECT_DIR$/book/GrowingStraberry.png" afterPath="$PROJECT_DIR$/resources/GrowingStraberry.png" />
+      <change beforePath="$PROJECT_DIR$/book/GrowingTomato.png" afterPath="$PROJECT_DIR$/resources/GrowingTomato.png" />
+      <change beforePath="$PROJECT_DIR$/book/Growingpitaya.png" afterPath="$PROJECT_DIR$/resources/Growingpitaya.png" />
+      <change beforePath="$PROJECT_DIR$/book/Growingstrawberry.png" afterPath="$PROJECT_DIR$/resources/Growingstrawberry.png" />
+      <change beforePath="$PROJECT_DIR$/book/House1.png" afterPath="$PROJECT_DIR$/resources/House1.png" />
+      <change beforePath="$PROJECT_DIR$/book/House2.png" afterPath="$PROJECT_DIR$/resources/House2.png" />
+      <change beforePath="$PROJECT_DIR$/book/House3.png" afterPath="$PROJECT_DIR$/resources/House3.png" />
+      <change beforePath="$PROJECT_DIR$/book/House4.png" afterPath="$PROJECT_DIR$/resources/House4.png" />
+      <change beforePath="$PROJECT_DIR$/book/LittleHouse.png" afterPath="$PROJECT_DIR$/resources/LittleHouse.png" />
+      <change beforePath="$PROJECT_DIR$/book/MC.png" afterPath="$PROJECT_DIR$/resources/MC.png" />
+      <change beforePath="$PROJECT_DIR$/book/Moutain.png" afterPath="$PROJECT_DIR$/resources/Moutain.png" />
+      <change beforePath="$PROJECT_DIR$/book/My-Buiding.png" afterPath="$PROJECT_DIR$/resources/My-Buiding.png" />
+      <change beforePath="$PROJECT_DIR$/book/Shop1.png" afterPath="$PROJECT_DIR$/resources/Shop1.png" />
+      <change beforePath="$PROJECT_DIR$/book/Shop2.png" afterPath="$PROJECT_DIR$/resources/Shop2.png" />
+      <change beforePath="$PROJECT_DIR$/book/Shop3.png" afterPath="$PROJECT_DIR$/resources/Shop3.png" />
+      <change beforePath="$PROJECT_DIR$/book/abc_ic_cab_done_holo_light.png" afterPath="$PROJECT_DIR$/resources/abc_ic_cab_done_holo_light.png" />
+      <change beforePath="$PROJECT_DIR$/book/abc_ic_clear_search_api_holo_light.png" afterPath="$PROJECT_DIR$/resources/abc_ic_clear_search_api_holo_light.png" />
+      <change beforePath="$PROJECT_DIR$/book/abc_ic_go_search_api_holo_light.png" afterPath="$PROJECT_DIR$/resources/abc_ic_go_search_api_holo_light.png" />
+      <change beforePath="$PROJECT_DIR$/book/abc_ic_search_api_holo_light.png" afterPath="$PROJECT_DIR$/resources/abc_ic_search_api_holo_light.png" />
+      <change beforePath="$PROJECT_DIR$/book/abc_ic_voice_search_api_holo_light.png" afterPath="$PROJECT_DIR$/resources/abc_ic_voice_search_api_holo_light.png" />
+      <change beforePath="$PROJECT_DIR$/book/aboutbkimage.png" afterPath="$PROJECT_DIR$/resources/aboutbkimage.png" />
+      <change beforePath="$PROJECT_DIR$/book/account_bg.png" afterPath="$PROJECT_DIR$/resources/account_bg.png" />
+      <change beforePath="$PROJECT_DIR$/book/account_title.png" afterPath="$PROJECT_DIR$/resources/account_title.png" />
+      <change beforePath="$PROJECT_DIR$/book/acount_login.png" afterPath="$PROJECT_DIR$/resources/acount_login.png" />
+      <change beforePath="$PROJECT_DIR$/book/add.png" afterPath="$PROJECT_DIR$/resources/add.png" />
+      <change beforePath="$PROJECT_DIR$/book/addFrident_btn.png" afterPath="$PROJECT_DIR$/resources/addFrident_btn.png" />
+      <change beforePath="$PROJECT_DIR$/book/addFriend_deletebtn.png" afterPath="$PROJECT_DIR$/resources/addFriend_deletebtn.png" />
+      <change beforePath="$PROJECT_DIR$/book/add_select.png" afterPath="$PROJECT_DIR$/resources/add_select.png" />
+      <change beforePath="$PROJECT_DIR$/book/adddream_addbtn.png" afterPath="$PROJECT_DIR$/resources/adddream_addbtn.png" />
+      <change beforePath="$PROJECT_DIR$/book/airplane.png" afterPath="$PROJECT_DIR$/resources/airplane.png" />
+      <change beforePath="$PROJECT_DIR$/book/alert_btn.png" afterPath="$PROJECT_DIR$/resources/alert_btn.png" />
+      <change beforePath="$PROJECT_DIR$/book/app_manage_update_icon.png" afterPath="$PROJECT_DIR$/resources/app_manage_update_icon.png" />
+      <change beforePath="$PROJECT_DIR$/book/app_module_normal.png" afterPath="$PROJECT_DIR$/resources/app_module_normal.png" />
+      <change beforePath="$PROJECT_DIR$/book/app_module_normal_rtl.png" afterPath="$PROJECT_DIR$/resources/app_module_normal_rtl.png" />
+      <change beforePath="$PROJECT_DIR$/book/app_nor.png" afterPath="$PROJECT_DIR$/resources/app_nor.png" />
+      <change beforePath="$PROJECT_DIR$/book/app_progress_horver.png" afterPath="$PROJECT_DIR$/resources/app_progress_horver.png" />
+      <change beforePath="$PROJECT_DIR$/book/app_progress_normal.png" afterPath="$PROJECT_DIR$/resources/app_progress_normal.png" />
+      <change beforePath="$PROJECT_DIR$/book/app_progress_normal9.png" afterPath="$PROJECT_DIR$/resources/app_progress_normal9.png" />
+      <change beforePath="$PROJECT_DIR$/book/app_rank_four.png" afterPath="$PROJECT_DIR$/resources/app_rank_four.png" />
+      <change beforePath="$PROJECT_DIR$/book/app_rank_hundred.png" afterPath="$PROJECT_DIR$/resources/app_rank_hundred.png" />
+      <change beforePath="$PROJECT_DIR$/book/app_rank_one.png" afterPath="$PROJECT_DIR$/resources/app_rank_one.png" />
+      <change beforePath="$PROJECT_DIR$/book/app_rank_three.png" afterPath="$PROJECT_DIR$/resources/app_rank_three.png" />
+      <change beforePath="$PROJECT_DIR$/book/app_rank_two.png" afterPath="$PROJECT_DIR$/resources/app_rank_two.png" />
+      <change beforePath="$PROJECT_DIR$/book/app_sel.png" afterPath="$PROJECT_DIR$/resources/app_sel.png" />
+      <change beforePath="$PROJECT_DIR$/book/application_xp.png" afterPath="$PROJECT_DIR$/resources/application_xp.png" />
+      <change beforePath="$PROJECT_DIR$/book/application_xp_terminal.png" afterPath="$PROJECT_DIR$/resources/application_xp_terminal.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_appgroup.png" afterPath="$PROJECT_DIR$/resources/appmarket_appgroup.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_appgroup_sel.png" afterPath="$PROJECT_DIR$/resources/appmarket_appgroup_sel.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_back.png" afterPath="$PROJECT_DIR$/resources/appmarket_back.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_back_disable.png" afterPath="$PROJECT_DIR$/resources/appmarket_back_disable.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_back_hover.png" afterPath="$PROJECT_DIR$/resources/appmarket_back_hover.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_billbord.png" afterPath="$PROJECT_DIR$/resources/appmarket_billbord.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_billbord_sel.png" afterPath="$PROJECT_DIR$/resources/appmarket_billbord_sel.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_forword.png" afterPath="$PROJECT_DIR$/resources/appmarket_forword.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_forword_disable.png" afterPath="$PROJECT_DIR$/resources/appmarket_forword_disable.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_forword_hover.png" afterPath="$PROJECT_DIR$/resources/appmarket_forword_hover.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_home.png" afterPath="$PROJECT_DIR$/resources/appmarket_home.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_home_sel.png" afterPath="$PROJECT_DIR$/resources/appmarket_home_sel.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_hottopic.png" afterPath="$PROJECT_DIR$/resources/appmarket_hottopic.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_hottopic_sel.png" afterPath="$PROJECT_DIR$/resources/appmarket_hottopic_sel.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_huawei.png" afterPath="$PROJECT_DIR$/resources/appmarket_huawei.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_huawei_sel.png" afterPath="$PROJECT_DIR$/resources/appmarket_huawei_sel.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_mustInstall.png" afterPath="$PROJECT_DIR$/resources/appmarket_mustInstall.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_mustInstall_sel.png" afterPath="$PROJECT_DIR$/resources/appmarket_mustInstall_sel.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_nor.png" afterPath="$PROJECT_DIR$/resources/appmarket_nor.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_press.png" afterPath="$PROJECT_DIR$/resources/appmarket_press.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_refresh.png" afterPath="$PROJECT_DIR$/resources/appmarket_refresh.png" />
+      <change beforePath="$PROJECT_DIR$/book/appmarket_refresh_hover.png" afterPath="$PROJECT_DIR$/resources/appmarket_refresh_hover.png" />
+      <change beforePath="$PROJECT_DIR$/book/appstore_detailappinfocard_down.png" afterPath="$PROJECT_DIR$/resources/appstore_detailappinfocard_down.png" />
+      <change beforePath="$PROJECT_DIR$/book/appstore_detailappinfocard_down_sel.png" afterPath="$PROJECT_DIR$/resources/appstore_detailappinfocard_down_sel.png" />
+      <change beforePath="$PROJECT_DIR$/book/appstore_more_arrow_hover.png" afterPath="$PROJECT_DIR$/resources/appstore_more_arrow_hover.png" />
+      <change beforePath="$PROJECT_DIR$/book/appstore_more_arrow_normal.png" afterPath="$PROJECT_DIR$/resources/appstore_more_arrow_normal.png" />
+      <change beforePath="$PROJECT_DIR$/book/appstore_onekey_disable.png" afterPath="$PROJECT_DIR$/resources/appstore_onekey_disable.png" />
+      <change beforePath="$PROJECT_DIR$/book/appstore_popbox_uncheck.png" afterPath="$PROJECT_DIR$/resources/appstore_popbox_uncheck.png" />
+      <change beforePath="$PROJECT_DIR$/book/appstore_search_noresult.png" afterPath="$PROJECT_DIR$/resources/appstore_search_noresult.png" />
+      <change beforePath="$PROJECT_DIR$/book/arrow.png" afterPath="$PROJECT_DIR$/resources/arrow.png" />
+      <change beforePath="$PROJECT_DIR$/book/arrow2.png" afterPath="$PROJECT_DIR$/resources/arrow2.png" />
+      <change beforePath="$PROJECT_DIR$/book/arrow_down.png" afterPath="$PROJECT_DIR$/resources/arrow_down.png" />
+      <change beforePath="$PROJECT_DIR$/book/arrow_down_disable.png" afterPath="$PROJECT_DIR$/resources/arrow_down_disable.png" />
+      <change beforePath="$PROJECT_DIR$/book/arrow_down_hover.png" afterPath="$PROJECT_DIR$/resources/arrow_down_hover.png" />
+      <change beforePath="$PROJECT_DIR$/book/arrow_nor.png" afterPath="$PROJECT_DIR$/resources/arrow_nor.png" />
+      <change beforePath="$PROJECT_DIR$/book/arrow_press.png" afterPath="$PROJECT_DIR$/resources/arrow_press.png" />
+      <change beforePath="$PROJECT_DIR$/book/arrowdown.png" afterPath="$PROJECT_DIR$/resources/arrowdown.png" />
+      <change beforePath="$PROJECT_DIR$/book/arrowdownover.png" afterPath="$PROJECT_DIR$/resources/arrowdownover.png" />
+      <change beforePath="$PROJECT_DIR$/book/arrowleft.png" afterPath="$PROJECT_DIR$/resources/arrowleft.png" />
+      <change beforePath="$PROJECT_DIR$/book/bage_house.png" afterPath="$PROJECT_DIR$/resources/bage_house.png" />
+      <change beforePath="$PROJECT_DIR$/book/bakup_module_select.png" afterPath="$PROJECT_DIR$/resources/bakup_module_select.png" />
+      <change beforePath="$PROJECT_DIR$/book/battery1.png" afterPath="$PROJECT_DIR$/resources/battery1.png" />
+      <change beforePath="$PROJECT_DIR$/book/battery2.png" afterPath="$PROJECT_DIR$/resources/battery2.png" />
+      <change beforePath="$PROJECT_DIR$/book/battery3.png" afterPath="$PROJECT_DIR$/resources/battery3.png" />
+      <change beforePath="$PROJECT_DIR$/book/battery4.png" afterPath="$PROJECT_DIR$/resources/battery4.png" />
+      <change beforePath="$PROJECT_DIR$/book/battery_full.png" afterPath="$PROJECT_DIR$/resources/battery_full.png" />
+      <change beforePath="$PROJECT_DIR$/book/bg.png" afterPath="$PROJECT_DIR$/resources/bg.png" />
+      <change beforePath="$PROJECT_DIR$/book/bigtree.png" afterPath="$PROJECT_DIR$/resources/bigtree.png" />
+      <change beforePath="$PROJECT_DIR$/book/by.png" afterPath="$PROJECT_DIR$/resources/by.png" />
+      <change beforePath="$PROJECT_DIR$/book/chongzhi.png" afterPath="$PROJECT_DIR$/resources/chongzhi.png" />
+      <change beforePath="$PROJECT_DIR$/book/cn.png" afterPath="$PROJECT_DIR$/resources/cn.png" />
+      <change beforePath="$PROJECT_DIR$/book/deal.png" afterPath="$PROJECT_DIR$/resources/deal.png" />
+      <change beforePath="$PROJECT_DIR$/book/diamond1.png" afterPath="$PROJECT_DIR$/resources/diamond1.png" />
+      <change beforePath="$PROJECT_DIR$/book/diamond2.png" afterPath="$PROJECT_DIR$/resources/diamond2.png" />
+      <change beforePath="$PROJECT_DIR$/book/diamond3.png" afterPath="$PROJECT_DIR$/resources/diamond3.png" />
+      <change beforePath="$PROJECT_DIR$/book/diamond4.png" afterPath="$PROJECT_DIR$/resources/diamond4.png" />
+      <change beforePath="$PROJECT_DIR$/book/diamond5.png" afterPath="$PROJECT_DIR$/resources/diamond5.png" />
+      <change beforePath="$PROJECT_DIR$/book/diamond6.png" afterPath="$PROJECT_DIR$/resources/diamond6.png" />
+      <change beforePath="$PROJECT_DIR$/book/dream_bg.png" afterPath="$PROJECT_DIR$/resources/dream_bg.png" />
+      <change beforePath="$PROJECT_DIR$/book/dream_click.png" afterPath="$PROJECT_DIR$/resources/dream_click.png" />
+      <change beforePath="$PROJECT_DIR$/book/dream_image.png" afterPath="$PROJECT_DIR$/resources/dream_image.png" />
+      <change beforePath="$PROJECT_DIR$/book/dream_list_bg.png" afterPath="$PROJECT_DIR$/resources/dream_list_bg.png" />
+      <change beforePath="$PROJECT_DIR$/book/dream_listbg.png" afterPath="$PROJECT_DIR$/resources/dream_listbg.png" />
+      <change beforePath="$PROJECT_DIR$/book/dream_title.png" afterPath="$PROJECT_DIR$/resources/dream_title.png" />
+      <change beforePath="$PROJECT_DIR$/book/dream_unclick.png" afterPath="$PROJECT_DIR$/resources/dream_unclick.png" />
+      <change beforePath="$PROJECT_DIR$/book/du.png" afterPath="$PROJECT_DIR$/resources/du.png" />
+      <change beforePath="$PROJECT_DIR$/book/help.png" afterPath="$PROJECT_DIR$/resources/help.png" />
+      <change beforePath="$PROJECT_DIR$/book/heyeu_title.png" afterPath="$PROJECT_DIR$/resources/heyeu_title.png" />
+      <change beforePath="$PROJECT_DIR$/book/heyue_add.png" afterPath="$PROJECT_DIR$/resources/heyue_add.png" />
+      <change beforePath="$PROJECT_DIR$/book/hualan.png" afterPath="$PROJECT_DIR$/resources/hualan.png" />
+      <change beforePath="$PROJECT_DIR$/book/jn.png" afterPath="$PROJECT_DIR$/resources/jn.png" />
+      <change beforePath="$PROJECT_DIR$/book/juankuan_title.png" afterPath="$PROJECT_DIR$/resources/juankuan_title.png" />
+      <change beforePath="$PROJECT_DIR$/book/jx.png" afterPath="$PROJECT_DIR$/resources/jx.png" />
+      <change beforePath="$PROJECT_DIR$/book/loginSwitchBackground.png" afterPath="$PROJECT_DIR$/resources/loginSwitchBackground.png" />
+      <change beforePath="$PROJECT_DIR$/book/lookService_assessTitle.png" afterPath="$PROJECT_DIR$/resources/lookService_assessTitle.png" />
+      <change beforePath="$PROJECT_DIR$/book/lookService_baseTitle.png" afterPath="$PROJECT_DIR$/resources/lookService_baseTitle.png" />
+      <change beforePath="$PROJECT_DIR$/book/lookService_dealTitle.png" afterPath="$PROJECT_DIR$/resources/lookService_dealTitle.png" />
+      <change beforePath="$PROJECT_DIR$/book/lookService_next.png" afterPath="$PROJECT_DIR$/resources/lookService_next.png" />
+      <change beforePath="$PROJECT_DIR$/book/lookService_saaess_img.png" afterPath="$PROJECT_DIR$/resources/lookService_saaess_img.png" />
+      <change beforePath="$PROJECT_DIR$/book/main_friend_title.png" afterPath="$PROJECT_DIR$/resources/main_friend_title.png" />
+      <change beforePath="$PROJECT_DIR$/book/meng.png" afterPath="$PROJECT_DIR$/resources/meng.png" />
+      <change beforePath="$PROJECT_DIR$/book/mj.png" afterPath="$PROJECT_DIR$/resources/mj.png" />
+      <change beforePath="$PROJECT_DIR$/book/more.png" afterPath="$PROJECT_DIR$/resources/more.png" />
+      <change beforePath="$PROJECT_DIR$/book/muzhizhao_title.png" afterPath="$PROJECT_DIR$/resources/muzhizhao_title.png" />
+      <change beforePath="$PROJECT_DIR$/book/my_background.png" afterPath="$PROJECT_DIR$/resources/my_background.png" />
+      <change beforePath="$PROJECT_DIR$/book/my_image.png" afterPath="$PROJECT_DIR$/resources/my_image.png" />
+      <change beforePath="$PROJECT_DIR$/book/my_item_image.png" afterPath="$PROJECT_DIR$/resources/my_item_image.png" />
+      <change beforePath="$PROJECT_DIR$/book/present_icon2.png" afterPath="$PROJECT_DIR$/resources/present_icon2.png" />
+      <change beforePath="$PROJECT_DIR$/book/present_listicon.png" afterPath="$PROJECT_DIR$/resources/present_listicon.png" />
+      <change beforePath="$PROJECT_DIR$/book/present_listicon1.png" afterPath="$PROJECT_DIR$/resources/present_listicon1.png" />
+      <change beforePath="$PROJECT_DIR$/book/present_listicon4.png" afterPath="$PROJECT_DIR$/resources/present_listicon4.png" />
+      <change beforePath="$PROJECT_DIR$/book/present_title.png" afterPath="$PROJECT_DIR$/resources/present_title.png" />
+      <change beforePath="$PROJECT_DIR$/book/serviceMarket_itembg.png" afterPath="$PROJECT_DIR$/resources/serviceMarket_itembg.png" />
+      <change beforePath="$PROJECT_DIR$/book/sh.png" afterPath="$PROJECT_DIR$/resources/sh.png" />
+      <change beforePath="$PROJECT_DIR$/book/sp.png" afterPath="$PROJECT_DIR$/resources/sp.png" />
+      <change beforePath="$PROJECT_DIR$/book/splash.png" afterPath="$PROJECT_DIR$/resources/splash.png" />
+      <change beforePath="$PROJECT_DIR$/book/ss.png" afterPath="$PROJECT_DIR$/resources/ss.png" />
+      <change beforePath="$PROJECT_DIR$/book/sy.png" afterPath="$PROJECT_DIR$/resources/sy.png" />
+      <change beforePath="$PROJECT_DIR$/book/sz.png" afterPath="$PROJECT_DIR$/resources/sz.png" />
+      <change beforePath="$PROJECT_DIR$/book/test_title.png" afterPath="$PROJECT_DIR$/resources/test_title.png" />
+      <change beforePath="$PROJECT_DIR$/book/tx.png" afterPath="$PROJECT_DIR$/resources/tx.png" />
+      <change beforePath="$PROJECT_DIR$/book/userService_title.png" afterPath="$PROJECT_DIR$/resources/userService_title.png" />
+      <change beforePath="$PROJECT_DIR$/book/weifu_title.png" afterPath="$PROJECT_DIR$/resources/weifu_title.png" />
+      <change beforePath="$PROJECT_DIR$/book/zhichi_title.png" afterPath="$PROJECT_DIR$/resources/zhichi_title.png" />
+      <change beforePath="$PROJECT_DIR$/book/zhichi_zanbtn.png" afterPath="$PROJECT_DIR$/resources/zhichi_zanbtn.png" />
+      <change beforePath="$PROJECT_DIR$/book/zhizhao_alert.png" afterPath="$PROJECT_DIR$/resources/zhizhao_alert.png" />
+      <change beforePath="$PROJECT_DIR$/book/zhizhao_alertbtn.png" afterPath="$PROJECT_DIR$/resources/zhizhao_alertbtn.png" />
+      <change beforePath="$PROJECT_DIR$/book/zhizhao_alertbtn1.png" afterPath="$PROJECT_DIR$/resources/zhizhao_alertbtn1.png" />
+      <change beforePath="$PROJECT_DIR$/book/zicon.png" afterPath="$PROJECT_DIR$/resources/zicon.png" />
+      <change beforePath="$PROJECT_DIR$/book/娣诲姞姝ラ鎸夐挳.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/book/游戏教程.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/README.md" afterPath="$PROJECT_DIR$/ml1-1/README.md" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/.ipynb_checkpoints/image-checkpoint.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/192.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/36.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/96.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/Icon-120.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/Icon-144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/Icon-152.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/Icon-180.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/Icon-72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/Icon-76.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/LittleHouse.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/icon1024.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/image.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/iris.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/personal_gold.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/img/service_itemimage.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/intro.md" afterPath="$PROJECT_DIR$/ml1-1/intro.md" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/iris.ipynb" afterPath="$PROJECT_DIR$/ml1-1/iris.ipynb" />
+      <change beforePath="$PROJECT_DIR$/ml1-1/step1.md" afterPath="$PROJECT_DIR$/ml1-1/step1.md" />
+      <change beforePath="$PROJECT_DIR$/ml1-2/step1.md" afterPath="$PROJECT_DIR$/ml1-2/step1.md" />
+      <change beforePath="$PROJECT_DIR$/ml1-3/step1.md" afterPath="$PROJECT_DIR$/ml1-3/step1.md" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/ml1-1/requirements.txt" />
+      <change beforePath="$PROJECT_DIR$/算法图解.pdf" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book/1.png">
-          <provider selected="true" editor-type-id="images" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="finish.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ml1-1/finish.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ml1-1/intro.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+      <file leaf-file-name="index.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ml1-1/index.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iris.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ml1-1/iris.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="推荐系统.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ml1-1/推荐系统.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="step1.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ml1-2/step1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="391">
-                <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <first_editor relative-caret-position="108">
+                <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+                <folding />
               </first_editor>
-              <second_editor />
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="step1.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/book/c2_math/step1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="108">
+                <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="step1.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ml1-1/step1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="432">
+                <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="92" selection-end-column="34" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="outline.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book/outline.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="351">
+                <caret line="67" column="1" lean-forward="true" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="step1.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book/c1_chinese/step1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="270">
+                <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -55,21 +368,48 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/ml1-1/iris.ipynb" />
+        <option value="$PROJECT_DIR$/book/intro/README.md" />
+        <option value="$PROJECT_DIR$/ml1-1/README.md" />
+        <option value="$PROJECT_DIR$/ml1-3/step1.md" />
         <option value="$PROJECT_DIR$/ml1-1/intro.md" />
+        <option value="$PROJECT_DIR$/book/c_life/step1.md" />
+        <option value="$PROJECT_DIR$/book/c_life/index.json" />
+        <option value="$PROJECT_DIR$/book/c12_life/intro.md" />
+        <option value="$PROJECT_DIR$/book/c12_life/step1.md" />
+        <option value="$PROJECT_DIR$/ml1-1/step1.md" />
+        <option value="$PROJECT_DIR$/book/c1_chinese/step1.md" />
+        <option value="$PROJECT_DIR$/book/intro.md" />
+        <option value="$PROJECT_DIR$/book/outline.md" />
+        <option value="$PROJECT_DIR$/ml1-2/step1.md" />
+        <option value="$PROJECT_DIR$/book/c2_math/step1.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1" />
     <option name="width" value="1364" />
     <option name="height" value="729" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,6 +427,21 @@
               <item name="ai-ml1" type="462c0819:PsiDirectoryNode" />
               <item name="ml1-1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ai-ml1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai-ml1" type="462c0819:PsiDirectoryNode" />
+              <item name="ml1-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-ml1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai-ml1" type="462c0819:PsiDirectoryNode" />
+              <item name="ml1-4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-ml1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai-ml1" type="462c0819:PsiDirectoryNode" />
+              <item name="ml1-5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -96,7 +451,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\mengmeng\src\katacoda-scenarios\ai-ml1\book" />
+      <recent name="C:\mengmeng\src\katacoda-scenarios\ai-ml1\ml1-1" />
+      <recent name="C:\mengmeng\src\katacoda-scenarios\ai-ml1\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\mengmeng\src\katacoda-scenarios\ai-ml1\book" />
+      <recent name="C:\mengmeng\src\katacoda-scenarios\ai-ml1\book\c12_life" />
+      <recent name="C:\mengmeng\src\katacoda-scenarios\ai-ml1\book\c_life" />
+      <recent name="C:\mengmeng\src\katacoda-scenarios\ai-ml1\book\intro" />
+      <recent name="C:\mengmeng\src\katacoda-scenarios\ai-ml1\c1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,6 +478,9 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -124,39 +496,455 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="0" width="1364" height="729" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962293" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23867229" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14103924" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44538707" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/book/1.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/ml1-1/intro.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-1/finish.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ml1-1/intro.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-1/finish.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-1/intro.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-3/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-4/step1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="391">
-            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
-          <second_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-3/step1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="567">
+            <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c1/finish.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="27">
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-4/intro.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/娣诲姞姝ラ鎸夐挳.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/intro/eva.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-1/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/intro/step1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="594">
+            <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/c_life/step1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/c_life/intro.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/c_life/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-4/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/c12_life/finish.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/c12_life/intro.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/c12_life/step1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-1/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="27">
+            <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-1/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/c1_chinese/intro.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/c1_chinese/finish.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/intro.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-1/intro.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="324">
+            <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/c1_chinese/step1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/outline.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="351">
+            <caret line="67" column="1" lean-forward="true" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-1/finish.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="true" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-1/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-1/iris.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-1/推荐系统.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-2/step1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml1-1/step1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="432">
+            <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="92" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/c2_math/step1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
