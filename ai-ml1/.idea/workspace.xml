@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa8a7fe2-a54d-4d90-8cb2-ae151f9467d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/book/c1_chinese/api_chinese.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book/actions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ai-ml1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ai-ml1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/c2_math/api_numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/c2_math/api_numpy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../book/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/../book/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../book/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
