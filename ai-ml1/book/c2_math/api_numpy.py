@@ -1,0 +1,167 @@
+import numpy as np
+# 导入 jieba
+import jieba
+import jieba.posseg as pseg #词性标注
+import jieba.analyse as anls #关键词提取
+import re
+# https://github.com/fengdu78/Data-Science-Notes/tree/master/2.numpy
+# https://github.com/fengdu78/Data-Science-Notes/tree/master/3.pandas
+class Caculation(object):
+
+    def __init__(self):
+        self.level = 0
+        self.student = 0
+
+    # 3. 数数一个指定长度的
+    def count(self,start,end):
+        Z = np.arange(start,end)
+        print(Z)
+        return Z
+
+    def crt1DArray(self,x):
+        Z = np.random.random((x))
+        print(Z)
+
+        return Z
+
+    def crt2DArray(self,x,y):
+        Z = np.random.random((x,y))
+        print(Z)
+
+        return Z
+
+    def crt3DArray(self,x,y,z):
+        Z = np.random.random((x,y,z))
+        print(Z)
+
+        return Z
+
+    def multiMatrix(self,x,y):
+        if np.shape(x) != np.shape(y):
+            print("形状不适合")
+        else:
+            Z = x @ y
+        print(Z)
+        return Z
+
+    def filter1D(self,z, cond):
+        cond = (3 < Z) & (Z <= 8)
+        Z = z[cond]
+        print(Z)
+        return Z
+
+    def datetimeNday(self,n):
+        Z =  np.datetime64('today', 'D') - np.timedelta64(n, 'D')
+        print(Z)
+        return Z
+
+    def listDays(self,start,end):
+        Z = np.arange(start, end, dtype='datetime64[D]')
+        print(Z)
+        return Z
+
+    def 数天(self,开始,结束):
+        Z = np.arange(开始, 结束, dtype='datetime64[D]')
+        print(Z)
+        return Z
+
+    def 数数(self,start,end):
+        Z = np.arange(start,end)
+        print(Z)
+        return Z
+
+def 比较(问句):
+    候选字典 = {
+        '数数':'从1数到100',
+        '数天':'从2019年1月到2019年9月有哪些天',
+        '哪天':'3天后是几号',
+        '计算':'3乘以5等于多少'
+    }
+    最终结果 = 0
+    res = 2
+    for key,value in 候选字典.items():
+        结果 = 比较相似(value,问句)
+        print(结果)
+        if 结果 > 最终结果:
+            最终结果 = 结果
+            res = key
+
+    return res
+
+def 理解(sentence):
+    # sentence = sentence.trim()
+    words = pseg.cut(sentence)
+    for word, flag in words:
+        print("{0} {1}".format(word, flag))
+        if flag == "v":
+            print(word)
+
+
+
+    本领 = 比较(sentence)
+    print(本领)
+
+    num = re.findall('\d+',sentence)
+    print(num)
+
+
+    pattern = ''+本领+'('+str(num[0])+','+ str(num[1])+')'
+
+
+
+    return pattern
+
+
+
+def get_word_vector(s1,s2):
+
+    cut1 = jieba.cut(s1)
+    cut2 = jieba.cut(s2)
+
+    list_word1 = (','.join(cut1)).split(',')
+    list_word2 = (','.join(cut2)).split(',')
+    print(list_word1)
+    print(list_word2)
+
+    key_word = list(set(list_word1 + list_word2))#取并集
+    print(key_word)
+
+    word_vector1 = np.zeros(len(key_word))#给定形状和类型的用0填充的矩阵存储向量
+    word_vector2 = np.zeros(len(key_word))
+
+    for i in range(len(key_word)):#依次确定向量的每个位置的值
+        for j in range(len(list_word1)):#遍历key_word中每个词在句子中的出现次数
+            if key_word[i] == list_word1[j]:
+                word_vector1[i] += 1
+        for k in range(len(list_word2)):
+            if key_word[i] == list_word2[k]:
+                word_vector2[i] += 1
+
+    print(word_vector1)#输出向量
+    print(word_vector2)
+    return word_vector1, word_vector2
+
+def 比较相似(s1,s2):
+    v1, v2 = get_word_vector(s1,s2)
+    return float(np.sum(v1 * v2))/(np.linalg.norm(v1) * np.linalg.norm(v2))
+
+
+
+if __name__ == "__main__":
+    熊猫= Caculation()
+    input = input("input:")
+    print(input)
+    pattern = 理解(input)
+    print("熊猫."+pattern)
+    # eval(pattern)
+    eval("熊猫."+pattern)
+
+    #
+    # s1 = "从1数到100"
+    # s2 = "从100数到10000"
+    # s2 = "2019年一共有多少天"
+    # print(相似(s1,s2))
+
+
+
+

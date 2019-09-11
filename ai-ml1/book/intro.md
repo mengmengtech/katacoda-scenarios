@@ -2,6 +2,7 @@
 【 梦盟科技出品 http://mengmeng.github.io ，官网http://mengmeng.tech】
 
  Exodus（出埃及记） 片头曲
+ 全书使用PPT模式
  
 ### 上课
 ![title](../book/intro/waiter.png)
