@@ -4,6 +4,8 @@ import jieba
 import jieba.posseg as pseg #词性标注
 import jieba.analyse as anls #关键词提取
 import re
+from sympy import *
+
 # https://github.com/fengdu78/Data-Science-Notes/tree/master/2.numpy
 # https://github.com/fengdu78/Data-Science-Notes/tree/master/3.pandas
 class Caculation(object):
@@ -50,7 +52,7 @@ class Caculation(object):
         print(Z)
         return Z
 
-    def datetimeNday(self,n):
+    def 哪天(self,n):
         Z =  np.datetime64('today', 'D') - np.timedelta64(n, 'D')
         print(Z)
         return Z
@@ -69,6 +71,63 @@ class Caculation(object):
         Z = np.arange(start,end)
         print(Z)
         return Z
+
+    def 解方程(self):
+        x = Symbol('x')
+        y = Symbol('y')
+        print(solve([y + x - 1, 3 * x + 2 * y - 5], [x, y]))
+        # t = Symbol('t')
+        # x = Symbol('x')
+        # m = integrate(sin(t) / (pi - t), (t, 0, x))
+        # n = integrate(m, (x, 0, pi))
+        # print(n)
+
+    def 探索规律(self,ar):
+        asize = len(ar)
+        found = 0
+        for i in range(0,asize):
+            if(i+2<asize):
+                cal = math_fib(3,ar[i],ar[i+1])
+                print(str(ar[i+2]),str(cal))
+                if cal ==ar[i+2]:
+                    # print(math_fib(3,ar[asize-2],ar[asize-1]))
+                    found = 1
+                else:
+                    found =0
+        if found :
+            res = math_fib(3, ar[asize - 2], ar[asize - 1])
+            print(math_fib(3, ar[asize - 2], ar[asize - 1]))
+        return math_fib(3,ar[asize-2],ar[asize-1])
+
+    def 平面图形(self):
+        x = Symbol('x')
+        y = Symbol('y')
+        z = Symbol('z')
+        print(solve([x*y-0.25*x*(y+z),0.5*x*(y+z)-0.5*x*y-0.5*z*x,x*(y+z)-0.5*x*(y+z)-0.5*x*y-0.5*z*x], [0.25*x*z]))
+        # x,y,z =
+        res = 0
+
+        return res
+
+    def 推理(self):
+        p1 = 1
+        p2 = 0
+        boyage = 10
+        motherage = 40
+
+        p = ((boyage - motherage)>0)
+        if False == p:
+            res="不可能"
+        elif True ==p:
+            res="一定"
+        else:
+            res="有可能"
+        print(str(res))
+
+def math_fib(n,a,b):
+    for i in range(n-1):
+        a, b = b, a+b
+    return a
 
 def 比较(问句):
     候选字典 = {
@@ -96,17 +155,15 @@ def 理解(sentence):
         if flag == "v":
             print(word)
 
-
-
     本领 = 比较(sentence)
     print(本领)
-
-    num = re.findall('\d+',sentence)
+    num = re.findall('\d+', sentence)
     print(num)
 
-
-    pattern = ''+本领+'('+str(num[0])+','+ str(num[1])+')'
-
+    if 本领 == "数数":
+        pattern = ''+本领+'('+str(num[0])+','+ str(num[1])+')'
+    elif 本领 == "哪天":
+        pattern =  ''+本领+'('+str(num[0])+')'
 
 
     return pattern
@@ -148,19 +205,20 @@ def 比较相似(s1,s2):
 
 
 if __name__ == "__main__":
-    熊猫= Caculation()
-    input = input("input:")
-    print(input)
-    pattern = 理解(input)
-    print("熊猫."+pattern)
-    # eval(pattern)
-    eval("熊猫."+pattern)
 
-    #
-    # s1 = "从1数到100"
-    # s2 = "从100数到10000"
-    # s2 = "2019年一共有多少天"
-    # print(相似(s1,s2))
+    熊猫= Caculation()
+    # 熊猫.解方程()
+    # list=[1,1,2,3,5,8,13,21]
+    # 熊猫.探索规律(list)
+    # 熊猫.平面图形()
+    熊猫.推理()
+
+    # input = input("input:")
+    # print(input)
+    # pattern = 理解(input)
+    # print("熊猫."+pattern)
+    # # eval(pattern)
+    # eval("熊猫."+pattern)
 
 
 

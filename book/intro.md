@@ -19,10 +19,10 @@ Future Acadamic （功夫熊猫）
 - AI大师 ![title](../book/intro/teacher.png)
 
 #### 听众
-- 圆圆 ![title](../book/ava/yuanyuan.png)
+- 萌萌 ![title](../book/ava/yuanyuan.png)
 - 莉莉 ![title](../book/ava/lili.png)
 - 步步 ![title](../book/ava/bubu.png)
-- 萌萌 ![title](../book/ava/mengmeng.png)
+- 圆圆 ![title](../book/ava/mengmeng.png)
 - 萝箩 ![title](../book/ava/luoluo.png)
 - 明明 ![title](../book/ava/mingming.png)
 
