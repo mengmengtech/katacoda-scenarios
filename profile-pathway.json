@@ -1,79 +1,19 @@
 {
     "courses": [
 	  {
-        "title": "未来学院课程",
-        "description": "未来学院课程",
-        "id": "book"
+        "title": "梦国度",
+        "description": "梦国度",
+        "id": "menggood"
       },
       {
-        "title": "十分钟学做系列",
-        "description": "学习开始做系列课程",
-        "id": "it"
+        "title": "创建机器学习环境",
+        "description": "创建机器学习环境",
+        "id": "env"
       },
       {
-        "title": "十分钟健康系列",
+        "title": "训练智能",
         "description": "学习健康生活系列",
-        "id": "heal"
-      },
-      {
-        "title": "十分钟评论",
-        "description": "点评漫画",
-        "id": "pinglun"
-      },
-      {
-        "title": "十分钟中小学提分",
-        "description": "聚类算法",
-        "id": "edu"
-      },
-      {
-        "title": "1.K近邻",
-        "description": "K近邻",
-        "id": "ai-ml1"
-      },
-      {
-        "title": "2.贝叶斯",
-        "description": "贝叶斯",
-        "id": "ai-ml2"
-      },
-      {
-        "title": "3.聚类算法",
-        "description": "聚类算法",
-        "id": "ai-ml3"
-      },
-      {
-        "title": "4.决策树",
-        "description": "决策树",
-        "id": "ai-ml4"
-      },
-      {
-        "title": "5.线性与梯度",
-        "description": "线性与梯度",
-        "id": "ai-ml5"
-      },
-      {
-        "title": "6.逻辑回归",
-        "description": "逻辑回归",
-        "id": "ai-ml6"
-      },
-      {
-        "title": "7.支持向量机",
-        "description": "支持向量机",
-        "id": "ai-ml7"
-      },
-      {
-        "title": "8.EM算法",
-        "description": "EM算法",
-        "id": "ai-ml8"
-      },
-      {
-        "title": "9.随机森林",
-        "description": "随机森林",
-        "id": "ai-ml8"
-      },
-      {
-        "title": "10.自适应学习",
-        "description": "自适应学习",
-        "id": "ai-ml10"
+        "id": "train"
       }
     ],
     "scenarios": [
@@ -93,8 +33,8 @@
         "id": "sys-rank"
       },
       {
-        "title": "课程上传",
-        "description": "课程上传",
+        "title": "实际项目",
+        "description": "实际项目",
         "id": "upload-assets"
       }
       
