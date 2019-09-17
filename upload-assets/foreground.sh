@@ -1,2 +1,1 @@
-sleep 2; 
-deploy.sh;
+sleep 1; /opt/wait.sh

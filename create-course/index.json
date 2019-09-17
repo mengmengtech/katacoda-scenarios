@@ -1,0 +1,36 @@
+{
+  "title": "从头创建一个训练环境",
+  "description": "从头创建一个训练环境",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - 基础设置",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - 添加Academy和Brain",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3 - 实现Agent代理",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4 - 完成设置",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "node"
+  }
+}

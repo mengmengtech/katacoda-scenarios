@@ -1,0 +1,36 @@
+{
+  "title": "3D Balance Ball 环境入门",
+  "description": "3D Balance Ball 环境入门",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - 安装",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - 构建环境",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3 - 模型训练",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4 - 导入模型",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "node"
+  }
+}

@@ -1,4 +1,5 @@
 #!/bin/bash
+
 sudo grep -i "done" /opt/katacoda-background-finished &> /dev/null
 if [[ "$?" -eq 0 ]]; then
 exit

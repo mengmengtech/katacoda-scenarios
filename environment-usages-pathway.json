@@ -1,4 +1,4 @@
- {
+{
     "title": "Katacoda Environments",
     "description": "Available Katacoda Environments",
     "icon": "fa-katacoda",
@@ -7,6 +7,11 @@
         "course_id": "ubuntu",
         "title": "Ubuntu 16.04 Instance",
         "description": "General purpose environment"
+      },
+      {
+        "course_id": "vscode-with-docker",
+        "title": "VSCode plus Ubuntu 16.04",
+        "description": "Example of adding a VS Code tab to a scenario"
       },
       {
         "course_id": "docker",
